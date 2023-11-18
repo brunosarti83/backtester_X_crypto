@@ -1,0 +1,7 @@
+__pycache__
+*.db
+*.xls
+auxiliar.py
+config*
+/config*
+results
